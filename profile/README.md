@@ -10,3 +10,4 @@
 8. 格式化工具：[MaaPipeline-Format](https://github.com/MaaGF1/MaaPipeline-Format)
 9. 格式化工具-VSCode插件：[MaaPipeline-Format-VSCode](https://github.com/MaaGF1/MaaPipeline-Format-VSCode)
 10. 妙妙小工具集合: [ZIRC](https://github.com/MaaGF1/ZIRC)
+11. 和GFAlarm没有任何关系的“GFalarm”：[GFLH](https://github.com/MaaGF1/GFLH)
